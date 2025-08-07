@@ -1,1 +1,1 @@
-This project is built as part of Final Project for Marketing Analytics course at UT Austin. Here we aim to determine whether a high value customer would respond to our next marketing campaign or not.
+This project performs RFM (Recency, Frequency, Monetary) analysis on marketing campaign data to understand customer behavior, segment customers, and generate insights for targeted marketing strategies. Here we aim to determine whether a high value customer would respond to our next marketing campaign or not.
